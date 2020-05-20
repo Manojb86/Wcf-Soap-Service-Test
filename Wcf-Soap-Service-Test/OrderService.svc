@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Wcf_Soap_Service_Test.OrderService" CodeBehind="OrderService.svc.cs" %>
